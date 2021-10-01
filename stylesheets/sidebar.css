@@ -6,6 +6,10 @@ nav {
   left: 10px; /*отступ слева*/
   padding: 10px;/*внутренний отступ*/
   box-sizing: border-box; /*говорит браузеру учитывать любые границы и внутренние отступы для высоты и ширины эл*/
+  overflow-x: hidden;
+  overflow-y: scroll;
+  height: 100vh;
+  display: block;
   opacity: .1;
   transition: all .5s ease;
 }
@@ -28,5 +32,5 @@ nav ul {
   width: 100%;
 }
 nav li{
-  
+
 }
