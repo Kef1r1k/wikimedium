@@ -9,11 +9,14 @@ a{
   padding-top: 20px;
 }
 .menubar a{
+  margin-top:0;
+  height: 40px;
 text-decoration: none;
 color: #aaa;
 
 }
 .menubar img{
+  margin-top: 0;
   height: 40px;
   width: auto;
 }
