@@ -1,7 +1,7 @@
 a{
   color: inherit;
 }
-.menubar{
+.menubar {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -9,11 +9,11 @@ a{
   padding-top: 20px;
 }
 .menubar a{
-  height: 20px;
-  text-decoration: none;
-  color: #aaa
+text-decoration: none;
+color: #aaa;
+
 }
 .menubar img{
-  height: 40%;
+  height: 40px;
   width: auto;
 }
