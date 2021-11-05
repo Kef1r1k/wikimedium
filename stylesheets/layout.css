@@ -4,6 +4,7 @@ a{
 .menubar {
   width: 100%;
   display: flex;
+  background: white;
   justify-content: space-between;
   align-items: center;
   height: 40px;
