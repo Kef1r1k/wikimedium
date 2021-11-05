@@ -4,4 +4,6 @@
 @import "layout.css"; /*макет*/
 @import "content.css"; /*контент*/
 @import "sidebar.css"; /*панел*/
-@import "filename.css";
+@import "responsive.css";
+@import "nav.css";
+@import "index.css";
